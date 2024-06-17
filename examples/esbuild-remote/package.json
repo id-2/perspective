@@ -13,7 +13,7 @@
         "@finos/perspective-viewer": "^2.7.1",
         "@finos/perspective-viewer-d3fc": "^2.7.1",
         "@finos/perspective-viewer-datagrid": "^2.7.1",
-        "express": "^4.17.1",
+        "express": "^4.19.2",
         "express-ws": "^5.0.2"
     },
     "devDependencies": {
