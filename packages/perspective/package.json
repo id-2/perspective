@@ -43,15 +43,15 @@
     },
     "dependencies": {
         "stoppable": "1.1.0",
-        "ws": "^6.1.2"
+        "ws": "^6.2.3"
     },
     "devDependencies": {
         "@finos/perspective-cpp": "^2.7.1",
         "@finos/perspective-esbuild-plugin": "^2.7.1",
         "cpy": "^9.0.1",
         "jsverify": "^0.8.4",
-        "lodash": "^4.17.4",
-        "moment": "^2.19.1",
+        "lodash": "^4.17.21",
+        "moment": "^2.29.4",
         "superstore-arrow": "^3.0.0"
     }
 }
